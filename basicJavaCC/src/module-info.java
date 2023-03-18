@@ -1,0 +1,3 @@
+module basicJavaCC {
+	requires junit;
+}
